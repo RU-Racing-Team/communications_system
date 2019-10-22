@@ -50,7 +50,7 @@ sudo chmod +x <file-name>
 This should start the installer. After finishing the installation (this should go pretty quick) continue to the next steps.
 
 ### Windows
-Here somebody else should write something up since I have not the slightest clue ;)
+# Here somebody else should write something up since I have not the slightest clue ;)
 
 ## Step 2: Set Up Workspace and Arduino IDE:
 ### Linux:
