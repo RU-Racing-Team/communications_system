@@ -81,3 +81,6 @@ cp FlexCAN_Library/* ~/<your-arduino-path>/hardware/teensy/avr/libraries/FlexCAN
 ```
 
 Now you should be able to upload your code using the arduino IDE. It is currently not possible to upload directly from Visual Studio Code.
+
+### Windows:
+# Would be great if a windows user could write something up!
